@@ -1,0 +1,6 @@
+2025-04-24 01:50:11,124 - INFO - Starting training in output/mi_vae_20250424_015011
+2025-04-24 01:50:11,125 - INFO - TensorBoard logs will be saved to output/mi_vae_20250424_015011/tensorboard
+2025-04-24 01:50:11,141 - INFO - TensorBoard started on http://localhost:6006
+2025-04-24 01:50:11,146 - INFO - Using device: cpu
+2025-04-24 01:50:11,146 - INFO - Loading and preprocessing data...
+2025-04-24 01:50:12,557 - ERROR - Training failed with error: at least one array or dtype is required
